@@ -49,6 +49,7 @@ public class HOSPITALMANAGEMENTSYSTEM {
 					return;
 				default:
 					System.out.println("Please enter valid choice.");
+						HOSPITALMANAGEMENTSYSTEM.main(args[]);
 					break;
 				}
 
@@ -57,3 +58,4 @@ public class HOSPITALMANAGEMENTSYSTEM {
 		}
 	}
 }
+
